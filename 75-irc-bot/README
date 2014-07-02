@@ -1,0 +1,7 @@
+Programming challenge #75: IRC Bot
+Written in Python.
+
+Usage: `./bot.py <irc server host> <irc server port> <bot nick> <channel to join>`
+
+Bot will respond to "Hi, <bot's nick>" and also will respond to the command "!say <message here>"
+It should be easy to figure out how to extend it.
