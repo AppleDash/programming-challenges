@@ -1,0 +1,7 @@
+Programming challenge #21: 4chan thread downloader (images)
+Written in Ruby
+
+Requires the hpricot gem
+
+Usage: `./4chandl.rb <link to thread> <path to images folder>`
+
