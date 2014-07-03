@@ -1,0 +1,4 @@
+Programming challenge #32: Generate ASCII tree (with height based on input)
+Written in Python
+
+Usage: `./tree.py <height of tree to generate>`
