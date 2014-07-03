@@ -1,0 +1,7 @@
+Programming challenge #83: Simple paint program
+Written in C#
+
+This is a GUI program for Windows, so it isn't so simple to use.
+Run SimplePaint/bin/Debug/SimplePaint.exe directly on Windows, or with mono on Linux.
+If you don't trust me, compile it yourself using Visual Studio and then do the same.
+It should be self-explanatory from there.

@@ -1,0 +1,7 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\SimplePaint\SimplePaint\bin\Debug\SimplePaint.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\SimplePaint\SimplePaint\bin\Debug\SimplePaint.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\SimplePaint\SimplePaint\obj\x86\Debug\SimplePaint.MainForm.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\SimplePaint\SimplePaint\obj\x86\Debug\SimplePaint.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\SimplePaint\SimplePaint\obj\x86\Debug\SimplePaint.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\SimplePaint\SimplePaint\obj\x86\Debug\SimplePaint.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\SimplePaint\SimplePaint\obj\x86\Debug\SimplePaint.pdb
