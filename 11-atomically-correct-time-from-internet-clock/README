@@ -1,0 +1,6 @@
+Programming challenge #11: Atomically correct time from an Internet clock
+Written in PHP
+
+Usage: `./clock.php`
+
+Requires ncurses and the PHP ncurses extension.
