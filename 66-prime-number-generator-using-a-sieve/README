@@ -1,0 +1,4 @@
+Programming challenge #66: Find prime numbers using a sieve
+Written in Python
+
+Usage: `./primegen.py <max number to find primes up to>`
